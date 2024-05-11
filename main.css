@@ -1,0 +1,21 @@
+h1 {
+    color: orange;
+    background-color: green;
+    font-size: 79px;
+  }
+  
+  a {
+   color: red;
+   width: 1024px
+  }
+  
+  p { 
+    text-align: left;
+    line-height: 50px
+  }
+  
+  img {
+      width: 1024px;
+  }
+    
+  
